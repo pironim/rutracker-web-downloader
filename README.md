@@ -25,3 +25,6 @@ and checking progress
 ```
 ls -al ~/Downloads/*.torrent | wc -l
 ```
+
+JS Script designed to work on search results page and on forum page independently IF NECESSARY
+Feel free to paste it in js console and download latest torrents
